@@ -1,0 +1,8 @@
+class LinkedList {
+
+
+}
+
+class Node {
+
+}
